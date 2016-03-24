@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":6,"equips":[6,0,2,3,0],"faceIndex":0,"faceName":"","traits":[{"code":51,"dataId":1,"value":1},{"code":52,"dataId":3,"value":1},{"code":64,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Actor 1","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Package1_2","characterIndex":1,"characterName":"Package1","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Actor 2","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Package1_4","characterIndex":3,"characterName":"Package1","classId":3,"equips":[3,0,2,3,4],"faceIndex":3,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Actor 3","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Package1_6","characterIndex":5,"characterName":"Package1","classId":4,"equips":[4,0,2,3,4],"faceIndex":5,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Actor 4","nickname":"","note":"","profile":""}
+]

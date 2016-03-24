@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Intro Cutscene","order":1,"parentId":0,"scrollX":1404,"scrollY":790.2857142857142},
+{"id":2,"expanded":true,"name":"World Map 1","order":2,"parentId":0,"scrollX":1400.5714285714284,"scrollY":790.2857142857142},
+{"id":3,"expanded":true,"name":"Village 1","order":3,"parentId":2,"scrollX":1400.5714285714284,"scrollY":790.2857142857142},
+{"id":4,"expanded":true,"name":"Village 2","order":5,"parentId":2,"scrollX":1400.5714285714284,"scrollY":790.2857142857142},
+{"id":5,"expanded":false,"name":"Inn","order":4,"parentId":3,"scrollX":1400.5714285714284,"scrollY":790.2857142857142},
+{"id":6,"expanded":false,"name":"SECRET","order":8,"parentId":2,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":7,"expanded":false,"name":"Village 3","order":9,"parentId":2,"scrollX":1225.5,"scrollY":691.5},
+{"id":8,"expanded":false,"name":"Inn","order":6,"parentId":4,"scrollX":1400.5714285714284,"scrollY":790.2857142857142},
+{"id":9,"expanded":false,"name":"Forest of Decay","order":10,"parentId":2,"scrollX":1493.142857142857,"scrollY":776.5714285714286},
+{"id":10,"expanded":false,"name":"Weapon Shop","order":7,"parentId":4,"scrollX":1400.5714285714284,"scrollY":790.2857142857142}
+]
